@@ -3,6 +3,9 @@ Interactive Power BI dashboard analyzing 50K+ food delivery orders to uncover cu
 
 # Food Delivery Customer Behavior Analytics Dashboard
 
+<img width="1063" height="600" alt="Screenshot 2026-05-25 004522" src="https://github.com/user-attachments/assets/0bcf6986-6d6f-4c31-b976-9eb87e8f1c88" />
+
+
 ## Overview
 This project is an interactive Power BI dashboard analyzing 50K+ food delivery orders to understand customer behavior, cuisine trends, delivery performance, and business insights.
 
@@ -39,5 +42,5 @@ This project is an interactive Power BI dashboard analyzing 50K+ food delivery o
 - Dataset (.csv)
 - Screenshots
 
-<img width="1063" height="600" alt="Screenshot 2026-05-25 004522" src="https://github.com/user-attachments/assets/25ffe760-9f7b-4030-910f-dce0cca5d6c2" />
+
 
